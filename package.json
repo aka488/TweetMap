@@ -1,0 +1,20 @@
+{
+  "name": "tweet_map",
+  "version": "0.0.0",
+  "description": "A realtime geographically contextualized visualization of tweets regarding the election.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "twitter",
+    "election",
+    "d3",
+    "socket.io",
+    "redis",
+    "geographic"
+  ],
+  "author": "Jonathan Dinu",
+  "license": "BSD"
+}
