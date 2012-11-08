@@ -16,5 +16,17 @@
     "geographic"
   ],
   "author": "Jonathan Dinu",
-  "license": "BSD"
+  "license": "BSD",
+  "private": "true",
+  "dependencies": {
+      "express": "2.x",
+      "d3": "2.x",
+      "twit": "1.0.4",
+      "ejs": "0.4.2",
+      "request": "*",
+      "socket.io": "0.9",
+      "hiredis": "*",
+      "redis":	"*",
+      "jade": ">= 0.0.1"
+    }     	
 }
